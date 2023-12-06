@@ -12,12 +12,12 @@
 </ul>
  
  <h2>Using the command</h2>
-  <pre><code>{
+  <pre><code>
   docker-compose exec php bin/console import:xml
-}</code></pre>  
+</code></pre>  
 
 <h2>Tests:</h2>
 
-  <pre><code>{
+  <pre><code>
   docker-compose exec php vendor/bin/phpunit
-}</code></pre>  
+</code></pre>  
